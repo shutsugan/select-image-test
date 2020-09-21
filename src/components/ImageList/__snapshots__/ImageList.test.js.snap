@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generate ImageList component snapshot 1`] = `
+<div>
+  <div
+    class="images-list grid"
+  />
+</div>
+`;

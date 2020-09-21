@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generate SelectedImage component snapshot 1`] = `
+<div>
+  <div
+    class="selected-image shadow"
+  >
+    <h2 />
+    <img
+      alt=""
+      src=""
+    />
+  </div>
+</div>
+`;

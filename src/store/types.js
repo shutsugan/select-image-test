@@ -1,0 +1,4 @@
+export const FETCH_IMAGES = "FETCH_IMAGES";
+export const FETCH_FAILED = "FETCH_FAILED";
+export const SELECT_IMAGE = "SELECT_IMAGE";
+export const TOGGLE_LOADING = "TOGGLE_LOADING";

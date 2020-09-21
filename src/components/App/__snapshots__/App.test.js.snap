@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generate App component snapshot 1`] = `
+<div>
+  <div
+    class="app"
+  >
+    <div
+      class="images-list grid"
+    />
+    <div
+      class="flex mb-1"
+    />
+    <div
+      class="lds-ring"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+</div>
+`;
